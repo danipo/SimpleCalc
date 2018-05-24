@@ -1,0 +1,14 @@
+C:\Users\danie\OneDrive\Documents\Schoolwork\C# Practice\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.exe.config
+C:\Users\danie\OneDrive\Documents\Schoolwork\C# Practice\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.exe
+C:\Users\danie\OneDrive\Documents\Schoolwork\C# Practice\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.pdb
+C:\Users\danie\OneDrive\Documents\Schoolwork\C# Practice\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csprojResolveAssemblyReference.cache
+C:\Users\danie\OneDrive\Documents\Schoolwork\C# Practice\SimpleCalc\SimpleCalc\obj\Debug\MainWindow.g.cs
+C:\Users\danie\OneDrive\Documents\Schoolwork\C# Practice\SimpleCalc\SimpleCalc\obj\Debug\App.g.cs
+C:\Users\danie\OneDrive\Documents\Schoolwork\C# Practice\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc_MarkupCompile.cache
+C:\Users\danie\OneDrive\Documents\Schoolwork\C# Practice\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc_MarkupCompile.lref
+C:\Users\danie\OneDrive\Documents\Schoolwork\C# Practice\SimpleCalc\SimpleCalc\obj\Debug\MainWindow.baml
+C:\Users\danie\OneDrive\Documents\Schoolwork\C# Practice\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.g.resources
+C:\Users\danie\OneDrive\Documents\Schoolwork\C# Practice\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.Properties.Resources.resources
+C:\Users\danie\OneDrive\Documents\Schoolwork\C# Practice\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csproj.GenerateResource.Cache
+C:\Users\danie\OneDrive\Documents\Schoolwork\C# Practice\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.exe
+C:\Users\danie\OneDrive\Documents\Schoolwork\C# Practice\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.pdb
